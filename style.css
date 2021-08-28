@@ -133,8 +133,8 @@ p {
 
   h1 {
     font-size: 25px;
-    align-items: center;
     text-align: center;
+    white-space: nowrap;
   }
 
   p {

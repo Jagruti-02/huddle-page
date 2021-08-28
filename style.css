@@ -166,9 +166,12 @@ p {
 
 
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 420px) {
   body {
     background-image: url("images/bg-mobile.svg");
+  }
+  h1 {
+    font-size: 22px;
   }
 }
 
